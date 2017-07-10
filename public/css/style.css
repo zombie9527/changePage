@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+html,body{
+    background: #fff;
+}
+h2{
+    margin-bottom: 2rem;
+}
+.table{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.5rem;
+}
+table{
+    width: 100%;
+}
+.table table tr{
+    display: flex;
+}
+th,td{
+    width: 33%;
+}
